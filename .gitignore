@@ -9,3 +9,4 @@
 *-mpgraph.mp
 *.synctex.gz
 spack-bibliography.pdf
+.DS_Store
